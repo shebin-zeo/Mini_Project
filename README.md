@@ -1,4 +1,4 @@
-                                #Temperature Based Automatic Fan Speed Controller
+                                Temperature Based Automatic Fan Speed Controller
                                           
 
 This project introduces a temperature-based automatic fan speed controller that adjusts the speed of an electric fan according to the ambient temperature. Leveraging embedded technology, this closed-loop feedback control system ensures high efficiency and reliability. Project is highly relevant for several reasons. Firstly, it promotes energy efficiency by optimizing power usage. The system adjusts the fan speed according to the ambient temperature, ensuring that the fan operates at higher speeds only when necessary. This not only conserves energy but also results in significant cost savings, making it an economically viable solution for both industrial and domestic applications. Secondly, the project enhances comfort and convenience with its user-friendly interface.
